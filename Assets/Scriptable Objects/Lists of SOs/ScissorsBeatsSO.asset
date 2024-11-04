@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e042ebaccc9bb0a41ba51f2be545bb96, type: 3}
+  m_Name: ScissorsBeatsSO
+  m_EditorClassIdentifier: 
+  IconSOList:
+  - {fileID: 11400000, guid: 0af0882c33854d14681188dc5ac31c9c, type: 2}
+  - {fileID: 11400000, guid: 8103835863084e240847481adb747139, type: 2}
+  - {fileID: 11400000, guid: 718c7f0ad728e0a408bc51871087ccb2, type: 2}
+  - {fileID: 11400000, guid: 8efc2ee8a12b12f42b2c9bbfddfc7cb3, type: 2}
