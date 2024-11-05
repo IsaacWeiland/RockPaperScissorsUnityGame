@@ -10,21 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e042ebaccc9bb0a41ba51f2be545bb96, type: 3}
-  m_Name: RPS-AllSO
+  m_Name: RockBeatsSO
   m_EditorClassIdentifier: 
   IconSOList:
   - {fileID: 11400000, guid: 1c671232e758b2540afe5e07d2e941e9, type: 2}
-  - {fileID: 11400000, guid: 624e32fc0b5c9144a860b99397025024, type: 2}
-  - {fileID: 11400000, guid: 0af0882c33854d14681188dc5ac31c9c, type: 2}
   - {fileID: 11400000, guid: 146f0515cee32f047be445296cf3b9cf, type: 2}
   - {fileID: 11400000, guid: 8103835863084e240847481adb747139, type: 2}
   - {fileID: 11400000, guid: 718c7f0ad728e0a408bc51871087ccb2, type: 2}
-  - {fileID: 11400000, guid: 8efc2ee8a12b12f42b2c9bbfddfc7cb3, type: 2}
-  - {fileID: 11400000, guid: 0d4b925dae95203448d73da92edd2a95, type: 2}
-  - {fileID: 11400000, guid: 4842753afc9975248bf84eb5a25caef0, type: 2}
-  - {fileID: 11400000, guid: b3cf10a1f5c1d64488d36efb19221bba, type: 2}
-  - {fileID: 11400000, guid: e5c3218b721be3b4fb5843711e3bc51e, type: 2}
-  - {fileID: 11400000, guid: 170f9fc0681cfa443a6a2138dbe9f6d9, type: 2}
   - {fileID: 11400000, guid: 3f4bdec6dd7a625419cb721a4d0a7208, type: 2}
   - {fileID: 11400000, guid: 923a885e0922b3342af02282cfbcede2, type: 2}
   - {fileID: 11400000, guid: 36f2a6421381b21418f95380ec50181f, type: 2}

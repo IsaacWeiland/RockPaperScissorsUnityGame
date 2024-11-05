@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e042ebaccc9bb0a41ba51f2be545bb96, type: 3}
+  m_Name: WolfBeatsSO
+  m_EditorClassIdentifier: 
+  IconSOList:
+  - {fileID: 11400000, guid: 170f9fc0681cfa443a6a2138dbe9f6d9, type: 2}
+  - {fileID: 11400000, guid: e5c3218b721be3b4fb5843711e3bc51e, type: 2}
+  - {fileID: 11400000, guid: b3cf10a1f5c1d64488d36efb19221bba, type: 2}
+  - {fileID: 11400000, guid: 0d4b925dae95203448d73da92edd2a95, type: 2}
+  - {fileID: 11400000, guid: 718c7f0ad728e0a408bc51871087ccb2, type: 2}
+  - {fileID: 11400000, guid: 8efc2ee8a12b12f42b2c9bbfddfc7cb3, type: 2}
+  - {fileID: 11400000, guid: 0af0882c33854d14681188dc5ac31c9c, type: 2}
